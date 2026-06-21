@@ -156,6 +156,9 @@ The study evaluated how identity-aware micro-segmentation can strengthen securit
 * Contribute to open-source and security-focused projects
 
 ---
+![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=calebuk-design&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=calebuk-design&layout=compact&theme=dark&hide_border=true)
 
 ## Connect With Me
 
