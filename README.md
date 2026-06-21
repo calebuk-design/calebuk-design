@@ -159,8 +159,6 @@ The study evaluated how identity-aware micro-segmentation can strengthen securit
 
 ## Connect With Me
 
-## Connect With Me
-
 LinkedIn: https://www.linkedin.com/in/caleb-ukereghe-793b42136/
 
 Email: calebukereghe@gmail.com
